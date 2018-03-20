@@ -6,7 +6,7 @@ url: "https://vestalux.github.io"
 theme_settings:
   # Meta
   title: Cowork
-  avatar: assets/img/cube.svg
+  avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Coworking Kaposvár" # used by search engines
