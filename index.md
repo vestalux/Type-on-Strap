@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rólunk
+title: Coworking
 permalink: /
 feature-img: "assets/img/pexels/computer-3.jpg"
 
