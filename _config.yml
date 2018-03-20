@@ -47,9 +47,9 @@ theme_settings:
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  portfolio: true
-  search: true
-  tags: true
+  portfolio: false
+  search: false
+  tags: false
   
   
   # Localization strings
