@@ -1,8 +1,11 @@
----
-layout: page
-title: Kocka Coworking
-permalink: /
-feature-img: "assets/img/pexels/startup.jpg"
 
 ---
+layout: redirected
+title: Kocka Coworking
+feature-img: "assets/img/pexels/startup.jpg"
+sitemap: false
+permalink: /
+redirect_to:  /coworking/
+---
+
  

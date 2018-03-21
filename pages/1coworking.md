@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coworking
-permalink: /
+permalink: /coworking/
 feature-img: "assets/img/pexels/startup.jpg"
 ---
 ### Mi az a coworking?
